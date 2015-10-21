@@ -1,9 +1,9 @@
 [user]
-  name = TO EDIT
-  email = TO EDIT
+  name = Alex Even
+  email = alexandra.even@prestashop.com
 
 [github]
-  user = TO EDIT
+  user = AlexEven
 
 [color]
   ui = auto

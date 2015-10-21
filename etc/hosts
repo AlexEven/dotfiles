@@ -1,0 +1,7 @@
+# Get hosts file at http://someonewhocares.org/hosts/
+# and append additions at the top of it.
+
+#<dev>
+127.0.0.1   adminer.db
+127.0.0.1   prestashop.ps
+#</dev>
